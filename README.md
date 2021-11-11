@@ -1,7 +1,7 @@
 ## LEARNING TIME
 
 
-### Data Types in Programming
+# Data Types in Programming
 
 A data type is a classification of data that informs the compiler or interpreter how the programmer intends to use the data.
 
@@ -18,8 +18,8 @@ Inside a computer, different types of data are represented in different ways, ac
 
 ## Common Data Types..
 
--Integer (int)  -1 to 8 bytes
--Floating Point (float) -4 to 8 bytes
--Character (char) - 1 byte
--String (str or text) -Limited to the amount that can be stored in main memory
--Boolean (bool) - 1 bit
+- Integer (int)  -1 to 8 bytes
+- Floating Point (float) -4 to 8 bytes
+- Character (char) - 1 byte
+- String (str or text) -Limited to the amount that can be stored in main memory
+- Boolean (bool) - 1 bit
