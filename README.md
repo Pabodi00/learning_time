@@ -1,37 +1,25 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Pabodi00/learning_time/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Data Types in Programming
 
-### Markdown
+A data type is a classification of data that informs the compiler or interpreter how the programmer intends to use the data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+##  Why Data types are important???
 
-# Header 1
-## Header 2
-### Header 3
+Based on the programming languages there are many data types that stores data in a specific way. Data type is an property that tells the computer how to evaluate the value of the data programmer entered.  By understanding the data type, it ensures the collected data is in the expected format.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Why different data types are needed?
 
-**Bold** and _Italic_ and `Code` text
+Inside a computer, different types of data are represented in different ways, according the program the size of the data varied. So, using data types allocate a specific memory space to store them. They can also be subjected to a number of different operations. All values belonging to the same data type will have the same representation
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Common Data Types..
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pabodi00/learning_time/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-Integer (int)  -1 to 8 bytes
+-Floating Point (float) -4 to 8 bytes
+-Character (char) - 1 byte
+-String (str or text) -Limited to the amount that can be stored in main memory
+-Boolean (bool) - 1 bit
